@@ -1,2 +1,2 @@
 # Krishna
-it is a markup in the repository
+it is a markdown in the repository
